@@ -23,4 +23,4 @@ while read -r path action file; do
     fi
 done
 
-# nohup /path/to/script.sh >/dev/null 2>&1 &
+# nohup /Users/andresgonzales/Documents/projects/personal/commit-tracker/scirpt.sh >/dev/null 2>&1 &
