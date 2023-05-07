@@ -20,12 +20,18 @@ fswatch -0 "$file_to_watch" | while read -d "" event; do
   commit_count=$(wc -l < "$file_to_watch")
   echo "Total commits: $commit_count" > "$commit_count_file"
 
-  # Perform Git operations
-  git add .
-  last_commit_msg=$(tail -n 1 "$file_to_watch" | awk -F': ' '{print $2}')
-  git commit -m"$last_commit_msg"
-  
-  # Provide the password or use a credential manager
-  # If using SSH, this line can be left as is
-  git push origin main
+    last_commit_msg=$(git log -1 --pretty=%B)
+    script_commit_msg=$(tail -n 1 "$file_to_watch" | awk -F': ' '{print $2}')
+
+  if [ "$last_commit_msg" != "$script_commit_msg" ]; then
+
+    # Perform Git operations
+    git add .
+    last_commit_msg=$(tail -n 1 "$file_to_watch" | awk -F': ' '{print $2}')
+    git commit -m"$last_commit_msg"
+    
+    # Provide the password or use a credential manager
+    # If using SSH, this line can be left as is
+    git push origin main
+  fi
 done
