@@ -5,3 +5,40 @@
 - 2023-05-07 15:50:22: testing some changes
 - 2023-05-07 15:51:23: testing some changes
 - 2023-05-07 15:55:43: testing something
+- 2023-05-07 15:55:45: testing something
+- 2023-05-08 10:25:05: binding data for old users
+- 2023-05-08 11:29:59: testing changes in forcechangepassword, new exception PasswordResetRequiredException
+- 2023-05-08 11:34:41: fixbug
+- 2023-05-08 12:04:37: forceupdate when user of v1 forgot password
+- 2023-05-08 12:09:30: forceupdate when user of v1 forgot password bugfix
+- 2023-05-08 12:25:17: MessageAction=RESEND on migrate user form v1
+- 2023-05-08 12:40:23: bugfix
+- 2023-05-08 12:47:43: bugfix2
+- 2023-05-08 13:06:12: bugfix2
+- 2023-05-08 13:14:07: resned added
+- 2023-05-08 13:18:29: bug fix username asignement
+- 2023-05-08 13:39:23: pls work
+- 2023-05-08 13:52:33: email_verified
+- 2023-05-08 13:58:33: admin_update_user_attributes to send code
+- 2023-05-08 14:14:28: new logic change
+- 2023-05-08 14:19:35: removing unused imports
+- 2023-05-08 14:33:45: username
+- 2023-05-08 14:45:14:  resend code added and workin
+- 2023-05-08 15:02:27: new logic to update old user
+- 2023-05-08 15:21:00: testing changes
+- 2023-05-08 17:42:17: added return for base case forgotPassword v1
+- 2023-05-09 08:23:09: new stack prod
+- 2023-05-09 10:26:04: nueva clave requerida fixed
+- 2023-05-09 11:40:01:  fixing en vars
+- 2023-05-10 16:23:24: redirect ol traffic
+- 2023-05-10 17:46:08: fixing errors in crearcuenta
+- 2023-05-10 18:32:32: fixing bugs increar cuenta
+- 2023-05-10 19:11:47: fixing more bugs in crear cuenta
+- 2023-05-10 19:13:33: Merge branch 'dev' of https://github.com/Digitalinktic/Negos-Svelte into dev
+- 2023-05-11 12:07:34: first commit
+- 2023-05-11 12:27:53: gitginore
+- 2023-05-11 12:30:12: some modifications to run
+- 2023-05-11 14:31:00: init project
+- 2023-05-12 08:30:12: develop
+- 2023-05-14 09:47:04: testing that commit tracker is active
+- 2023-05-14 10:53:01: testing 10:52
