@@ -44,3 +44,5 @@
 - 2023-05-14 10:53:01: testing 10:52
 - 2023-05-14 10:53:03: testing 10:52
 - 2023-05-15 05:04:29: query by id working, included models, schemans and db conecction
+- 2023-05-15 05:04:30: query by id working, included models, schemans and db conecction
+- 2023-05-15 05:36:02: added full modeld and schema
