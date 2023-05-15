@@ -48,3 +48,5 @@
 - 2023-05-15 05:36:02: added full modeld and schema
 - 2023-05-15 05:36:04: added full modeld and schema
 - 2023-05-15 16:45:52: reports partially working
+- 2023-05-15 16:45:54: reports partially working
+- 2023-05-15 18:08:01: get reports working
