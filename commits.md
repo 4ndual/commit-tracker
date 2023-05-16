@@ -50,3 +50,5 @@
 - 2023-05-15 16:45:52: reports partially working
 - 2023-05-15 16:45:54: reports partially working
 - 2023-05-15 18:08:01: get reports working
+- 2023-05-15 18:08:02: get reports working
+- 2023-05-16 17:35:35: crud for personal implemented, new separatin and structure
