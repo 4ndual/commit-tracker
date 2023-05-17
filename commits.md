@@ -52,3 +52,5 @@
 - 2023-05-15 18:08:01: get reports working
 - 2023-05-15 18:08:02: get reports working
 - 2023-05-16 17:35:35: crud for personal implemented, new separatin and structure
+- 2023-05-16 17:35:37: crud for personal implemented, new separatin and structure
+- 2023-05-17 13:02:08: improving model and shcema personal added, added patch method to personal, minor bug fixes
