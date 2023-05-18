@@ -54,3 +54,5 @@
 - 2023-05-16 17:35:35: crud for personal implemented, new separatin and structure
 - 2023-05-16 17:35:37: crud for personal implemented, new separatin and structure
 - 2023-05-17 13:02:08: improving model and shcema personal added, added patch method to personal, minor bug fixes
+- 2023-05-17 13:02:09: improving model and shcema personal added, added patch method to personal, minor bug fixes
+- 2023-05-18 18:14:02: login workin, home working with percentage,horas working, crear cuenta, working
