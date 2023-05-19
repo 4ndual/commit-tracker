@@ -56,3 +56,5 @@
 - 2023-05-17 13:02:08: improving model and shcema personal added, added patch method to personal, minor bug fixes
 - 2023-05-17 13:02:09: improving model and shcema personal added, added patch method to personal, minor bug fixes
 - 2023-05-18 18:14:02: login workin, home working with percentage,horas working, crear cuenta, working
+- 2023-05-18 18:14:03: login workin, home working with percentage,horas working, crear cuenta, working
+- 2023-05-19 14:31:31: edit and delete working 100%, create need some changes, and waiting for additional info field in backend
