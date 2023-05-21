@@ -60,3 +60,5 @@
 - 2023-05-19 14:31:31: edit and delete working 100%, create need some changes, and waiting for additional info field in backend
 - 2023-05-19 14:31:33: edit and delete working 100%, create need some changes, and waiting for additional info field in backend
 - 2023-05-21 09:21:16: checkpoint
+- 2023-05-21 09:21:18: checkpoint
+- 2023-05-21 14:40:59: db config and oracled pk
