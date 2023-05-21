@@ -62,3 +62,5 @@
 - 2023-05-21 09:21:16: checkpoint
 - 2023-05-21 09:21:18: checkpoint
 - 2023-05-21 14:40:59: db config and oracled pk
+- 2023-05-21 14:41:01: db config and oracled pk
+- 2023-05-21 14:43:29: Merge branch 'dev' of https://github.com/Linktic-Marketing/LaEquidad into backend
