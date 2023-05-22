@@ -69,3 +69,5 @@
 - 2023-05-21 16:27:21: checkpoint
 - 2023-05-21 20:09:24: checkpoint
 - 2023-05-22 09:18:39: point
+- 2023-05-22 09:18:40: point
+- 2023-05-22 09:19:23: Merge branch 'docker' of https://github.com/Linktic-Marketing/LaEquidad into backend
