@@ -71,3 +71,5 @@
 - 2023-05-22 09:18:39: point
 - 2023-05-22 09:18:40: point
 - 2023-05-22 09:19:23: Merge branch 'docker' of https://github.com/Linktic-Marketing/LaEquidad into backend
+- 2023-05-22 09:19:25: Merge branch 'docker' of https://github.com/Linktic-Marketing/LaEquidad into backend
+- 2023-05-22 09:42:56: .
