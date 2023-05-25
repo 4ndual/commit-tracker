@@ -73,3 +73,5 @@
 - 2023-05-22 09:19:23: Merge branch 'docker' of https://github.com/Linktic-Marketing/LaEquidad into backend
 - 2023-05-22 09:19:25: Merge branch 'docker' of https://github.com/Linktic-Marketing/LaEquidad into backend
 - 2023-05-22 09:42:56: .
+- 2023-05-22 09:42:57: .
+- 2023-05-25 14:15:20: fixing bug in registrar hora
