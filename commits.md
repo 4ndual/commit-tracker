@@ -77,3 +77,5 @@
 - 2023-05-25 14:15:20: fixing bug in registrar hora
 - 2023-05-25 14:15:22: fixing bug in registrar hora
 - 2023-05-29 11:21:28: pre deploy configuration
+- 2023-05-29 11:21:30: pre deploy configuration
+- 2023-05-29 17:50:00: adding root
