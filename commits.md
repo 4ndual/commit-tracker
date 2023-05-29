@@ -75,3 +75,5 @@
 - 2023-05-22 09:42:56: .
 - 2023-05-22 09:42:57: .
 - 2023-05-25 14:15:20: fixing bug in registrar hora
+- 2023-05-25 14:15:22: fixing bug in registrar hora
+- 2023-05-29 11:21:28: pre deploy configuration
