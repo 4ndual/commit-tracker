@@ -79,3 +79,5 @@
 - 2023-05-29 11:21:28: pre deploy configuration
 - 2023-05-29 11:21:30: pre deploy configuration
 - 2023-05-29 17:50:00: adding root
+- 2023-05-29 17:50:01: adding root
+- 2023-05-29 17:53:48:  new changes in root testing deployment
