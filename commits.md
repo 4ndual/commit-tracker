@@ -87,3 +87,5 @@
 - 2023-05-30 16:59:24: using rewrites instead of routes in vercel json"
 - 2023-05-30 16:59:25: using rewrites instead of routes in vercel json"
 - 2023-05-30 17:09:26: error logger"
+- 2023-05-30 17:09:28: error logger"
+- 2023-05-30 17:11:08: testing vercel
