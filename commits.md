@@ -105,3 +105,5 @@
 - 2023-05-30 18:05:10: fix typo
 - 2023-05-30 18:05:12: fix typo
 - 2023-05-30 18:08:40: removing main try except
+- 2023-05-30 18:08:41: removing main try except
+- 2023-05-30 18:10:53: testing
