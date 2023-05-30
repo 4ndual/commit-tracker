@@ -89,3 +89,5 @@
 - 2023-05-30 17:09:26: error logger"
 - 2023-05-30 17:09:28: error logger"
 - 2023-05-30 17:11:08: testing vercel
+- 2023-05-30 17:11:09: testing vercel
+- 2023-05-30 17:14:19: testing vercel 2
