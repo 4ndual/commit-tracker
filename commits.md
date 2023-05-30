@@ -97,3 +97,5 @@
 - 2023-05-30 17:43:20: testing a different import
 - 2023-05-30 17:43:21: testing a different import
 - 2023-05-30 17:47:11: fixing structure
+- 2023-05-30 17:47:13: fixing structure
+- 2023-05-30 17:53:43: try except all to find logs in vercel
