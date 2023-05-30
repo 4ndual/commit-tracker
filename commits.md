@@ -103,3 +103,5 @@
 - 2023-05-30 18:04:37: testing different file strucuture for vercel
 - 2023-05-30 18:04:38: testing different file strucuture for vercel
 - 2023-05-30 18:05:10: fix typo
+- 2023-05-30 18:05:12: fix typo
+- 2023-05-30 18:08:40: removing main try except
