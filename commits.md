@@ -83,3 +83,5 @@
 - 2023-05-29 17:53:48:  new changes in root testing deployment
 - 2023-05-29 17:53:50:  new changes in root testing deployment
 - 2023-05-30 16:45:24: changes to vercel json"
+- 2023-05-30 16:45:26: changes to vercel json"
+- 2023-05-30 16:59:24: using rewrites instead of routes in vercel json"
