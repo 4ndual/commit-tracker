@@ -99,3 +99,5 @@
 - 2023-05-30 17:47:11: fixing structure
 - 2023-05-30 17:47:13: fixing structure
 - 2023-05-30 17:53:43: try except all to find logs in vercel
+- 2023-05-30 17:53:44: try except all to find logs in vercel
+- 2023-05-30 18:04:37: testing different file strucuture for vercel
