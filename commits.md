@@ -119,3 +119,5 @@
 - 2023-05-31 12:42:35: Merge branch 'dev' of https://github.com/Linktic-Marketing/app-horas into dev
 - 2023-05-31 12:42:37: Merge branch 'dev' of https://github.com/Linktic-Marketing/app-horas into dev
 - 2023-05-31 14:32:39: updating the report model"
+- 2023-05-31 14:32:41: updating the report model"
+- 2023-05-31 14:37:36: changes i edit and create report for new backend and new flow of report taks hours intead of total
