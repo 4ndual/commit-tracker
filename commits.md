@@ -125,3 +125,5 @@
 - 2023-05-31 15:26:03: performance improvement reducing the number of commits and bulk opperations
 - 2023-05-31 15:26:05: performance improvement reducing the number of commits and bulk opperations
 - 2023-05-31 15:32:56: fixng bug more than 24 hours or less than 1
+- 2023-05-31 15:32:58: fixng bug more than 24 hours or less than 1
+- 2023-05-31 15:47:19: deployment
