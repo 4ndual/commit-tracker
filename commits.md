@@ -121,3 +121,5 @@
 - 2023-05-31 14:32:39: updating the report model"
 - 2023-05-31 14:32:41: updating the report model"
 - 2023-05-31 14:37:36: changes i edit and create report for new backend and new flow of report taks hours intead of total
+- 2023-05-31 14:37:37: changes i edit and create report for new backend and new flow of report taks hours intead of total
+- 2023-05-31 15:26:03: performance improvement reducing the number of commits and bulk opperations
