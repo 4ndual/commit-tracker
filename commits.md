@@ -127,3 +127,5 @@
 - 2023-05-31 15:32:56: fixng bug more than 24 hours or less than 1
 - 2023-05-31 15:32:58: fixng bug more than 24 hours or less than 1
 - 2023-05-31 15:47:19: deployment
+- 2023-05-31 15:47:20: deployment
+- 2023-05-31 16:19:51: fixing bug not updating report taks hours
