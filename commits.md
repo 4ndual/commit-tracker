@@ -115,3 +115,5 @@
 - 2023-05-30 18:41:54: remove utils
 - 2023-05-30 18:41:55: remove utils
 - 2023-05-31 12:41:51: .
+- 2023-05-31 12:41:53: .
+- 2023-05-31 12:42:35: Merge branch 'dev' of https://github.com/Linktic-Marketing/app-horas into dev
