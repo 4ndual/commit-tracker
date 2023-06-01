@@ -131,3 +131,5 @@
 - 2023-05-31 16:19:51: fixing bug not updating report taks hours
 - 2023-05-31 16:19:52: fixing bug not updating report taks hours
 - 2023-06-01 14:57:17: filtering custom task in editar registro"
+- 2023-06-01 14:57:19: filtering custom task in editar registro"
+- 2023-06-01 14:59:09: updating report_task model to include note
