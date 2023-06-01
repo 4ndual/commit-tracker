@@ -133,3 +133,5 @@
 - 2023-06-01 14:57:17: filtering custom task in editar registro"
 - 2023-06-01 14:57:19: filtering custom task in editar registro"
 - 2023-06-01 14:59:09: updating report_task model to include note
+- 2023-06-01 14:59:11: updating report_task model to include note
+- 2023-06-01 15:00:50: filtering custom task in editar registro"
