@@ -129,3 +129,5 @@
 - 2023-05-31 15:47:19: deployment
 - 2023-05-31 15:47:20: deployment
 - 2023-05-31 16:19:51: fixing bug not updating report taks hours
+- 2023-05-31 16:19:52: fixing bug not updating report taks hours
+- 2023-06-01 14:57:17: filtering custom task in editar registro"
