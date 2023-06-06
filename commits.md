@@ -139,3 +139,5 @@
 - 2023-06-05 19:07:44: bug fix in manager data, new field and error in field name fixed"
 - 2023-06-05 19:07:46: bug fix in manager data, new field and error in field name fixed"
 - 2023-06-05 19:21:22: remove console.log fro production"
+- 2023-06-05 19:21:24: remove console.log fro production"
+- 2023-06-06 08:39:27: bugfix operand errot in create report
