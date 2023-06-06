@@ -141,3 +141,5 @@
 - 2023-06-05 19:21:22: remove console.log fro production"
 - 2023-06-05 19:21:24: remove console.log fro production"
 - 2023-06-06 08:39:27: bugfix operand errot in create report
+- 2023-06-06 08:39:32: bugfix operand errot in create report
+- 2023-06-06 10:15:05: contract_type added to personal
