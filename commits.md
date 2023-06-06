@@ -137,3 +137,5 @@
 - 2023-06-01 15:00:50: filtering custom task in editar registro"
 - 2023-06-01 15:00:52: filtering custom task in editar registro"
 - 2023-06-05 19:07:44: bug fix in manager data, new field and error in field name fixed"
+- 2023-06-05 19:07:46: bug fix in manager data, new field and error in field name fixed"
+- 2023-06-05 19:21:22: remove console.log fro production"
