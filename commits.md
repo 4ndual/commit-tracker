@@ -135,3 +135,5 @@
 - 2023-06-01 14:59:09: updating report_task model to include note
 - 2023-06-01 14:59:11: updating report_task model to include note
 - 2023-06-01 15:00:50: filtering custom task in editar registro"
+- 2023-06-01 15:00:52: filtering custom task in editar registro"
+- 2023-06-05 19:07:44: bug fix in manager data, new field and error in field name fixed"
