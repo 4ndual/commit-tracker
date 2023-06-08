@@ -149,3 +149,5 @@
 - 2023-06-08 16:06:46: removed supabase
 - 2023-06-08 16:06:47: removed supabase
 - 2023-06-08 16:18:15: updated svelte
+- 2023-06-08 16:18:17: updated svelte
+- 2023-06-08 16:32:00: testing some sutff to deploy
