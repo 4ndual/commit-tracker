@@ -151,3 +151,5 @@
 - 2023-06-08 16:18:15: updated svelte
 - 2023-06-08 16:18:17: updated svelte
 - 2023-06-08 16:32:00: testing some sutff to deploy
+- 2023-06-08 16:32:01: testing some sutff to deploy
+- 2023-06-08 16:36:01: removing.vercel
