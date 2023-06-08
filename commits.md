@@ -145,3 +145,5 @@
 - 2023-06-06 10:15:05: contract_type added to personal
 - 2023-06-06 10:15:08: contract_type added to personal
 - 2023-06-08 15:38:19: new homepage"
+- 2023-06-08 15:38:21: new homepage"
+- 2023-06-08 16:06:46: removed supabase
