@@ -155,3 +155,5 @@
 - 2023-06-08 16:36:01: removing.vercel
 - 2023-06-08 16:36:02: removing.vercel
 - 2023-06-08 16:38:35: removing lock jsons and cache
+- 2023-06-08 16:38:36: removing lock jsons and cache
+- 2023-06-16 08:42:39: birthdate endpoint
