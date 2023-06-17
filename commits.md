@@ -157,3 +157,5 @@
 - 2023-06-08 16:38:35: removing lock jsons and cache
 - 2023-06-08 16:38:36: removing lock jsons and cache
 - 2023-06-16 08:42:39: birthdate endpoint
+- 2023-06-16 08:42:40: birthdate endpoint
+- 2023-06-17 14:51:30: login flow ready
