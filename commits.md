@@ -161,3 +161,5 @@
 - 2023-06-17 14:51:30: login flow ready
 - 2023-06-17 14:51:31: login flow ready
 - 2023-06-17 15:12:54: base for auth ready
+- 2023-06-17 15:12:55: base for auth ready
+- 2023-06-17 18:42:24: first commit
