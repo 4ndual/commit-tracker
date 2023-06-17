@@ -159,3 +159,5 @@
 - 2023-06-16 08:42:39: birthdate endpoint
 - 2023-06-16 08:42:40: birthdate endpoint
 - 2023-06-17 14:51:30: login flow ready
+- 2023-06-17 14:51:31: login flow ready
+- 2023-06-17 15:12:54: base for auth ready
