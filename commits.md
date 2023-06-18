@@ -173,3 +173,5 @@
 - 2023-06-17 19:36:51: vault backup: 2023-06-17 19:36:51
 - 2023-06-17 19:41:47: vault backup: 2023-06-17 19:41:47
 - 2023-06-18 10:28:12: binding data and connection layout
+- 2023-06-18 10:28:13: binding data and connection layout
+- 2023-06-18 15:09:34: polizas endpoint and pagination
