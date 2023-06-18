@@ -167,3 +167,9 @@
 - 2023-06-17 18:44:23: first push obsidian
 - 2023-06-17 18:44:26: first push obsidian
 - 2023-06-17 19:22:29: vault backup: 2023-06-17 19:22:29
+- 2023-06-17 19:22:34: vault backup
+- 2023-06-17 19:34:38: vault backup: 2023-06-17 19:34:38
+- 2023-06-17 19:35:39: vault backup: 2023-06-17 19:35:39
+- 2023-06-17 19:36:51: vault backup: 2023-06-17 19:36:51
+- 2023-06-17 19:41:47: vault backup: 2023-06-17 19:41:47
+- 2023-06-18 10:28:12: binding data and connection layout
