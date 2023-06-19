@@ -177,3 +177,5 @@
 - 2023-06-18 15:09:34: polizas endpoint and pagination
 - 2023-06-18 15:09:35: polizas endpoint and pagination
 - 2023-06-19 11:32:51: preparing login intermediarios
+- 2023-06-19 11:32:52: preparing login intermediarios
+- 2023-06-19 13:13:57: added login to clientes and separated logic of auth between cliente and intermediario
