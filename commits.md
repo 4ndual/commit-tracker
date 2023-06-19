@@ -179,3 +179,5 @@
 - 2023-06-19 11:32:51: preparing login intermediarios
 - 2023-06-19 11:32:52: preparing login intermediarios
 - 2023-06-19 13:13:57: added login to clientes and separated logic of auth between cliente and intermediario
+- 2023-06-19 13:13:58: added login to clientes and separated logic of auth between cliente and intermediario
+- 2023-06-19 15:02:57: changes to backend, added controllers for city and deparment
