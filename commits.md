@@ -183,3 +183,5 @@
 - 2023-06-19 15:02:57: changes to backend, added controllers for city and deparment
 - 2023-06-19 15:02:59: changes to backend, added controllers for city and deparment
 - 2023-06-20 09:17:23: firebase auth connected
+- 2023-06-20 09:17:25: firebase auth connected
+- 2023-06-20 09:24:54: remove if browser
