@@ -181,3 +181,5 @@
 - 2023-06-19 13:13:57: added login to clientes and separated logic of auth between cliente and intermediario
 - 2023-06-19 13:13:58: added login to clientes and separated logic of auth between cliente and intermediario
 - 2023-06-19 15:02:57: changes to backend, added controllers for city and deparment
+- 2023-06-19 15:02:59: changes to backend, added controllers for city and deparment
+- 2023-06-20 09:17:23: firebase auth connected
