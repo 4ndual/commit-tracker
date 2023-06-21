@@ -187,3 +187,6 @@
 - 2023-06-20 09:24:54: remove if browser
 - 2023-06-20 09:24:56: remove if browser
 - 2023-06-21 09:22:28: connection to db and auth
+- 2023-06-21 09:22:29: connection to db and auth
+- 2023-06-21 09:23:05: connection to db and auth
+- 2023-06-21 13:00:19: Added backend
