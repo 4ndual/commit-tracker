@@ -185,3 +185,5 @@
 - 2023-06-20 09:17:23: firebase auth connected
 - 2023-06-20 09:17:25: firebase auth connected
 - 2023-06-20 09:24:54: remove if browser
+- 2023-06-20 09:24:56: remove if browser
+- 2023-06-21 09:22:28: connection to db and auth
