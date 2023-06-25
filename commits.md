@@ -190,3 +190,5 @@
 - 2023-06-21 09:22:29: connection to db and auth
 - 2023-06-21 09:23:05: connection to db and auth
 - 2023-06-21 13:00:19: Added backend
+- 2023-06-21 13:00:21: Added backend
+- 2023-06-25 15:53:53: vault backup: 2023-06-25 15:53:52
