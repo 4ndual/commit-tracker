@@ -192,3 +192,7 @@
 - 2023-06-21 13:00:19: Added backend
 - 2023-06-21 13:00:21: Added backend
 - 2023-06-25 15:53:53: vault backup: 2023-06-25 15:53:52
+- 2023-06-25 15:53:58: vault backup
+- 2023-06-25 15:54:52: vault backup: 2023-06-25 15:54:52
+- 2023-06-26 08:36:22: vault backup: 2023-06-26 08:36:22
+- 2023-06-27 08:50:06: fixing bug related to usedata never load
