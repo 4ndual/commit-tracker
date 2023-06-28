@@ -198,3 +198,7 @@
 - 2023-06-27 08:50:06: fixing bug related to usedata never load
 - 2023-06-27 08:50:08: fixing bug related to usedata never load
 - 2023-06-27 11:31:21: vault backup: 2023-06-27 11:31:21
+- 2023-06-27 11:31:22: vault backup
+- 2023-06-27 11:32:58: vault backup: 2023-06-27 11:32:58
+- 2023-06-27 11:33:22: vault backup: 2023-06-27 11:33:22
+- 2023-06-28 07:34:06: testing deploy to vercel
