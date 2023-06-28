@@ -210,3 +210,5 @@
 - 2023-06-28 07:42:47: 28jun23_3"
 - 2023-06-28 07:42:48: 28jun23_3"
 - 2023-06-28 08:56:58: testing a different vercel.json
+- 2023-06-28 08:56:59: testing a different vercel.json
+- 2023-06-28 09:03:15: alternative path
