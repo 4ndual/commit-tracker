@@ -228,3 +228,5 @@
 - 2023-06-28 10:11:12: testin db file again
 - 2023-06-28 10:11:13: testin db file again
 - 2023-06-28 10:12:43: change to vercel json
+- 2023-06-28 10:12:45: change to vercel json
+- 2023-06-28 10:15:00: removing dotenv from db file
