@@ -236,3 +236,7 @@
 - 2023-06-28 10:40:19: removing import of db
 - 2023-06-28 10:40:21: removing import of db
 - 2023-06-28 12:49:03: removing lock json
+- 2023-06-28 12:49:04: removing lock json
+- 2023-06-28 12:49:37: removing lock json
+- 2023-06-28 12:50:56: removing lock json
+- 2023-06-28 13:09:25: actualizar user number
