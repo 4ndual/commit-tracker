@@ -222,3 +222,5 @@
 - 2023-06-28 09:46:52: testing with all in only one file
 - 2023-06-28 09:46:54: testing with all in only one file
 - 2023-06-28 09:50:28: removing base and leaving dotenv
+- 2023-06-28 09:50:30: removing base and leaving dotenv
+- 2023-06-28 09:59:00: testing a different approach to enviroment variables
