@@ -214,3 +214,5 @@
 - 2023-06-28 09:03:15: alternative path
 - 2023-06-28 09:03:16: alternative path
 - 2023-06-28 09:14:27: testing a different configuration
+- 2023-06-28 09:14:28: testing a different configuration
+- 2023-06-28 09:21:28: testing removing db again
