@@ -234,3 +234,5 @@
 - 2023-06-28 10:22:27: testing only one file again
 - 2023-06-28 10:22:29: testing only one file again
 - 2023-06-28 10:40:19: removing import of db
+- 2023-06-28 10:40:21: removing import of db
+- 2023-06-28 12:49:03: removing lock json
