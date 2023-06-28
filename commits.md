@@ -216,3 +216,5 @@
 - 2023-06-28 09:14:27: testing a different configuration
 - 2023-06-28 09:14:28: testing a different configuration
 - 2023-06-28 09:21:28: testing removing db again
+- 2023-06-28 09:21:29: testing removing db again
+- 2023-06-28 09:30:53: fxing bug and testing removing db again
