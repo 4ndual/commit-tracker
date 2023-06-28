@@ -218,3 +218,5 @@
 - 2023-06-28 09:21:28: testing removing db again
 - 2023-06-28 09:21:29: testing removing db again
 - 2023-06-28 09:30:53: fxing bug and testing removing db again
+- 2023-06-28 09:30:54: fxing bug and testing removing db again
+- 2023-06-28 09:46:52: testing with all in only one file
