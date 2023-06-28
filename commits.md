@@ -226,3 +226,5 @@
 - 2023-06-28 09:59:00: testing a different approach to enviroment variables
 - 2023-06-28 09:59:01: testing a different approach to enviroment variables
 - 2023-06-28 10:11:12: testin db file again
+- 2023-06-28 10:11:13: testin db file again
+- 2023-06-28 10:12:43: change to vercel json
