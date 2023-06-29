@@ -242,3 +242,5 @@
 - 2023-06-28 13:09:25: actualizar user number
 - 2023-06-28 13:09:26: actualizar user number
 - 2023-06-29 07:23:01: delete lock json
+- 2023-06-29 07:23:02: delete lock json
+- 2023-06-29 07:26:26: lock json to gitignore
