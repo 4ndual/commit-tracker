@@ -244,3 +244,5 @@
 - 2023-06-29 07:23:01: delete lock json
 - 2023-06-29 07:23:02: delete lock json
 - 2023-06-29 07:26:26: lock json to gitignore
+- 2023-06-29 07:26:27: lock json to gitignore
+- 2023-06-29 16:01:05: refactoring layout
