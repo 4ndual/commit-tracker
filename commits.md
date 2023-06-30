@@ -248,3 +248,5 @@
 - 2023-06-29 16:01:05: refactoring layout
 - 2023-06-29 16:01:06: refactoring layout
 - 2023-06-29 16:02:59: removing innecesary conditional
+- 2023-06-29 16:03:00: removing innecesary conditional
+- 2023-06-30 10:24:54: checkpoint
