@@ -256,3 +256,5 @@
 - 2023-07-04 12:08:15:  fix bug await for aut state
 - 2023-07-04 12:08:16:  fix bug await for aut state
 - 2023-07-04 12:27:33: fixed error in backend creacion de user
+- 2023-07-04 12:27:34: fixed error in backend creacion de user
+- 2023-07-05 16:03:37: sveltekit with type orm example 0.0
