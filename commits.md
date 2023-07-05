@@ -258,3 +258,5 @@
 - 2023-07-04 12:27:33: fixed error in backend creacion de user
 - 2023-07-04 12:27:34: fixed error in backend creacion de user
 - 2023-07-05 16:03:37: sveltekit with type orm example 0.0
+- 2023-07-05 16:03:38: sveltekit with type orm example 0.0
+- 2023-07-05 18:58:53: some changes, not using tsoa anymore
