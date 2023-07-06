@@ -262,3 +262,5 @@
 - 2023-07-05 18:58:53: some changes, not using tsoa anymore
 - 2023-07-05 18:58:58: some changes, not using tsoa anymore
 - 2023-07-05 20:23:06: integration with swagger working
+- 2023-07-05 20:23:14: integration with swagger working
+- 2023-07-05 21:08:14: change to swagger
