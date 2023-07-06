@@ -266,3 +266,5 @@
 - 2023-07-05 21:08:14: change to swagger
 - 2023-07-05 21:08:18: change to swagger
 - 2023-07-05 21:26:31: manually added swagger
+- 2023-07-05 21:26:35: manually added swagger
+- 2023-07-06 17:04:41: profile and registrarlider working with erro handling
