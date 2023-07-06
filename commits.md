@@ -264,3 +264,5 @@
 - 2023-07-05 20:23:06: integration with swagger working
 - 2023-07-05 20:23:14: integration with swagger working
 - 2023-07-05 21:08:14: change to swagger
+- 2023-07-05 21:08:18: change to swagger
+- 2023-07-05 21:26:31: manually added swagger
