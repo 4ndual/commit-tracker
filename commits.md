@@ -270,3 +270,5 @@
 - 2023-07-06 17:04:41: profile and registrarlider working with erro handling
 - 2023-07-06 17:04:43: profile and registrarlider working with erro handling
 - 2023-07-06 18:35:50: adding directory
+- 2023-07-06 18:35:53: adding directory
+- 2023-07-07 10:43:28: uncomment for prod
