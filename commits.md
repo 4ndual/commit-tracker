@@ -274,3 +274,6 @@
 - 2023-07-07 10:43:28: uncomment for prod
 - 2023-07-07 10:43:30: uncomment for prod
 - 2023-07-07 15:39:35: some refactoring
+- 2023-07-07 15:39:37: some refactoring
+- 2023-07-07 15:40:08: some refactoring
+- 2023-07-08 17:21:14: script to automatically create swagger v1, working
