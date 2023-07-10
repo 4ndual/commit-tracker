@@ -279,3 +279,5 @@
 - 2023-07-08 17:21:14: script to automatically create swagger v1, working
 - 2023-07-08 17:21:15: script to automatically create swagger v1, working
 - 2023-07-09 22:01:21: the script already have properties, examples, and query needs fine tuning and requestbody
+- 2023-07-09 22:01:23: the script already have properties, examples, and query needs fine tuning and requestbody
+- 2023-07-10 16:03:27: added conditional for emulator in localhost
