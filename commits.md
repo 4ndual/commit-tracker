@@ -277,3 +277,5 @@
 - 2023-07-07 15:39:37: some refactoring
 - 2023-07-07 15:40:08: some refactoring
 - 2023-07-08 17:21:14: script to automatically create swagger v1, working
+- 2023-07-08 17:21:15: script to automatically create swagger v1, working
+- 2023-07-09 22:01:21: the script already have properties, examples, and query needs fine tuning and requestbody
