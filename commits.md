@@ -287,3 +287,5 @@
 - 2023-07-10 21:46:02: script working but still needs requestbody
 - 2023-07-10 21:46:04: script working but still needs requestbody
 - 2023-07-10 22:16:10: added requestbody and script that kinda works, i need to add auto activate script when npm run dev
+- 2023-07-10 22:16:11: added requestbody and script that kinda works, i need to add auto activate script when npm run dev
+- 2023-07-11 09:45:16: content conected
