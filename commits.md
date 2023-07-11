@@ -289,3 +289,5 @@
 - 2023-07-10 22:16:10: added requestbody and script that kinda works, i need to add auto activate script when npm run dev
 - 2023-07-10 22:16:11: added requestbody and script that kinda works, i need to add auto activate script when npm run dev
 - 2023-07-11 09:45:16: content conected
+- 2023-07-11 09:45:18: content conected
+- 2023-07-11 11:54:09: some changes to the firebase function
