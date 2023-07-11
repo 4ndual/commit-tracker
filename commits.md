@@ -285,3 +285,5 @@
 - 2023-07-10 17:33:08: intialize firebase change
 - 2023-07-10 17:33:09: intialize firebase change
 - 2023-07-10 21:46:02: script working but still needs requestbody
+- 2023-07-10 21:46:04: script working but still needs requestbody
+- 2023-07-10 22:16:10: added requestbody and script that kinda works, i need to add auto activate script when npm run dev
