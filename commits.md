@@ -291,3 +291,5 @@
 - 2023-07-11 09:45:16: content conected
 - 2023-07-11 09:45:18: content conected
 - 2023-07-11 11:54:09: some changes to the firebase function
+- 2023-07-11 11:54:11: some changes to the firebase function
+- 2023-07-11 23:04:53: i added some table to text i need to modify the script to work with all i also added concurrent script so the script automatically watch and creates the swagger on real time'
