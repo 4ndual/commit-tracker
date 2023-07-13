@@ -295,3 +295,5 @@
 - 2023-07-11 23:04:53: i added some table to text i need to modify the script to work with all i also added concurrent script so the script automatically watch and creates the swagger on real time'
 - 2023-07-11 23:04:54: i added some table to text i need to modify the script to work with all i also added concurrent script so the script automatically watch and creates the swagger on real time'
 - 2023-07-13 15:19:23: fixed bug in links and added correct type to some number for mixpanel
+- 2023-07-13 15:19:24: fixed bug in links and added correct type to some number for mixpanel
+- 2023-07-13 16:12:46: remove innecesary code
