@@ -293,3 +293,5 @@
 - 2023-07-11 11:54:09: some changes to the firebase function
 - 2023-07-11 11:54:11: some changes to the firebase function
 - 2023-07-11 23:04:53: i added some table to text i need to modify the script to work with all i also added concurrent script so the script automatically watch and creates the swagger on real time'
+- 2023-07-11 23:04:54: i added some table to text i need to modify the script to work with all i also added concurrent script so the script automatically watch and creates the swagger on real time'
+- 2023-07-13 15:19:23: fixed bug in links and added correct type to some number for mixpanel
