@@ -301,3 +301,5 @@
 - 2023-07-14 10:27:30: filters working, i need to improve the script to recgonize all typeorm
 - 2023-07-14 10:27:32: filters working, i need to improve the script to recgonize all typeorm
 - 2023-07-14 10:35:42: added options in hooks so no need to manually add it
+- 2023-07-14 10:35:43: added options in hooks so no need to manually add it
+- 2023-07-14 16:50:21: bugfix mixpanel
