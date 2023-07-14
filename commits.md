@@ -299,3 +299,5 @@
 - 2023-07-13 16:12:46: remove innecesary code
 - 2023-07-13 16:12:48: remove innecesary code
 - 2023-07-14 10:27:30: filters working, i need to improve the script to recgonize all typeorm
+- 2023-07-14 10:27:32: filters working, i need to improve the script to recgonize all typeorm
+- 2023-07-14 10:35:42: added options in hooks so no need to manually add it
