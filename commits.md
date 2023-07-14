@@ -297,3 +297,5 @@
 - 2023-07-13 15:19:23: fixed bug in links and added correct type to some number for mixpanel
 - 2023-07-13 15:19:24: fixed bug in links and added correct type to some number for mixpanel
 - 2023-07-13 16:12:46: remove innecesary code
+- 2023-07-13 16:12:48: remove innecesary code
+- 2023-07-14 10:27:30: filters working, i need to improve the script to recgonize all typeorm
