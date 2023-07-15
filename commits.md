@@ -305,3 +305,5 @@
 - 2023-07-14 16:50:21: bugfix mixpanel
 - 2023-07-14 16:50:23: bugfix mixpanel
 - 2023-07-15 09:58:13: all auth methods
+- 2023-07-15 09:58:15: all auth methods
+- 2023-07-15 11:02:45: auth working
