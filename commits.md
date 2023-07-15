@@ -309,3 +309,5 @@
 - 2023-07-15 11:02:45: auth working
 - 2023-07-15 11:02:46: auth working
 - 2023-07-15 11:06:48: Merge branch 'dev' of https://github.com/Linktic-Marketing/Positiva-Call-Center into auth
+- 2023-07-15 11:06:50: Merge branch 'dev' of https://github.com/Linktic-Marketing/Positiva-Call-Center into auth
+- 2023-07-15 11:12:52: remove lock json
