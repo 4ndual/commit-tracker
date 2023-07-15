@@ -317,3 +317,5 @@
 - 2023-07-15 12:54:08: admin created and working
 - 2023-07-15 12:54:09: admin created and working
 - 2023-07-15 12:58:41: Merge branch 'dev' of https://github.com/Linktic-Marketing/Positiva-Call-Center into auth
+- 2023-07-15 12:58:42: Merge branch 'dev' of https://github.com/Linktic-Marketing/Positiva-Call-Center into auth
+- 2023-07-15 13:23:55: connected login
