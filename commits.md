@@ -307,3 +307,5 @@
 - 2023-07-15 09:58:13: all auth methods
 - 2023-07-15 09:58:15: all auth methods
 - 2023-07-15 11:02:45: auth working
+- 2023-07-15 11:02:46: auth working
+- 2023-07-15 11:06:48: Merge branch 'dev' of https://github.com/Linktic-Marketing/Positiva-Call-Center into auth
