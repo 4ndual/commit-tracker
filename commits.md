@@ -325,3 +325,5 @@
 - 2023-07-15 18:07:32: checkpoin
 - 2023-07-15 18:07:33: checkpoin
 - 2023-07-15 18:39:15: logic added to fileloadr
+- 2023-07-15 18:39:16: logic added to fileloadr
+- 2023-07-16 11:00:47: aws changes and s3 bucket
