@@ -331,3 +331,5 @@
 - 2023-07-16 12:31:37: changed json for csv
 - 2023-07-16 12:31:38: changed json for csv
 - 2023-07-16 12:44:05: csv to json
+- 2023-07-16 12:44:06: csv to json
+- 2023-07-16 13:01:39: papaparse
