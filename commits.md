@@ -355,3 +355,5 @@
 - 2023-07-17 14:50:25: fixed invisible button
 - 2023-07-17 14:50:27: fixed invisible button
 - 2023-07-17 15:07:19: bugfix, no formdata
+- 2023-07-17 15:07:20: bugfix, no formdata
+- 2023-07-17 15:16:31: removed extra x
