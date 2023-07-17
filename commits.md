@@ -347,3 +347,5 @@
 - 2023-07-17 13:01:12: fixed reactivity
 - 2023-07-17 13:01:13: fixed reactivity
 - 2023-07-17 14:10:02: refacto to actions
+- 2023-07-17 14:10:03: refacto to actions
+- 2023-07-17 14:21:17: included searc
