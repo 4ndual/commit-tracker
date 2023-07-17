@@ -341,3 +341,5 @@
 - 2023-07-17 07:34:58: minor bugfixes
 - 2023-07-17 07:34:59: minor bugfixes
 - 2023-07-17 08:23:52: changed form action for queries
+- 2023-07-17 08:23:54: changed form action for queries
+- 2023-07-17 12:37:27: componentized
