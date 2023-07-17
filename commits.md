@@ -345,3 +345,5 @@
 - 2023-07-17 12:37:27: componentized
 - 2023-07-17 12:37:28: componentized
 - 2023-07-17 13:01:12: fixed reactivity
+- 2023-07-17 13:01:13: fixed reactivity
+- 2023-07-17 14:10:02: refacto to actions
