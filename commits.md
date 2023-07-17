@@ -351,3 +351,5 @@
 - 2023-07-17 14:21:17: included searc
 - 2023-07-17 14:21:18: included searc
 - 2023-07-17 14:39:02: most updated version'
+- 2023-07-17 14:39:05: most updated version'
+- 2023-07-17 14:50:25: fixed invisible button
