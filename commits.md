@@ -339,3 +339,5 @@
 - 2023-07-16 17:32:03: bugfix
 - 2023-07-16 17:32:04: bugfix
 - 2023-07-17 07:34:58: minor bugfixes
+- 2023-07-17 07:34:59: minor bugfixes
+- 2023-07-17 08:23:52: changed form action for queries
