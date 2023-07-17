@@ -343,3 +343,5 @@
 - 2023-07-17 08:23:52: changed form action for queries
 - 2023-07-17 08:23:54: changed form action for queries
 - 2023-07-17 12:37:27: componentized
+- 2023-07-17 12:37:28: componentized
+- 2023-07-17 13:01:12: fixed reactivity
