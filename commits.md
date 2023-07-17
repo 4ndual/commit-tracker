@@ -353,3 +353,5 @@
 - 2023-07-17 14:39:02: most updated version'
 - 2023-07-17 14:39:05: most updated version'
 - 2023-07-17 14:50:25: fixed invisible button
+- 2023-07-17 14:50:27: fixed invisible button
+- 2023-07-17 15:07:19: bugfix, no formdata
