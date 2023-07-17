@@ -357,3 +357,5 @@
 - 2023-07-17 15:07:19: bugfix, no formdata
 - 2023-07-17 15:07:20: bugfix, no formdata
 - 2023-07-17 15:16:31: removed extra x
+- 2023-07-17 15:16:32: removed extra x
+- 2023-07-17 18:17:52: added tipification and fixed data
