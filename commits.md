@@ -365,3 +365,5 @@
 - 2023-07-17 20:35:51: query by document number
 - 2023-07-17 20:35:52: query by document number
 - 2023-07-17 20:58:00: document type
+- 2023-07-17 20:58:02: document type
+- 2023-07-18 12:03:16: crateing and register some weird logic and bug fixes
