@@ -363,3 +363,5 @@
 - 2023-07-17 20:17:01: documentypes
 - 2023-07-17 20:17:03: documentypes
 - 2023-07-17 20:35:51: query by document number
+- 2023-07-17 20:35:52: query by document number
+- 2023-07-17 20:58:00: document type
