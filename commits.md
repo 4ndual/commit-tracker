@@ -359,3 +359,5 @@
 - 2023-07-17 15:16:31: removed extra x
 - 2023-07-17 15:16:32: removed extra x
 - 2023-07-17 18:17:52: added tipification and fixed data
+- 2023-07-17 18:17:53: added tipification and fixed data
+- 2023-07-17 20:17:01: documentypes
