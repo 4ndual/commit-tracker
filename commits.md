@@ -367,3 +367,5 @@
 - 2023-07-17 20:58:00: document type
 - 2023-07-17 20:58:02: document type
 - 2023-07-18 12:03:16: crateing and register some weird logic and bug fixes
+- 2023-07-18 12:03:17: crateing and register some weird logic and bug fixes
+- 2023-07-18 13:30:23: bugfix, feedback and save call
