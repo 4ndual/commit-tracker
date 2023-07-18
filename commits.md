@@ -361,3 +361,5 @@
 - 2023-07-17 18:17:52: added tipification and fixed data
 - 2023-07-17 18:17:53: added tipification and fixed data
 - 2023-07-17 20:17:01: documentypes
+- 2023-07-17 20:17:03: documentypes
+- 2023-07-17 20:35:51: query by document number
