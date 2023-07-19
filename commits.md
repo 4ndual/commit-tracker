@@ -371,3 +371,5 @@
 - 2023-07-18 13:30:23: bugfix, feedback and save call
 - 2023-07-18 13:30:25: bugfix, feedback and save call
 - 2023-07-19 15:40:14: somme comments
+- 2023-07-19 15:40:16: somme comments
+- 2023-07-19 15:52:25: add id call
