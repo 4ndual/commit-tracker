@@ -373,3 +373,5 @@
 - 2023-07-19 15:40:14: somme comments
 - 2023-07-19 15:40:16: somme comments
 - 2023-07-19 15:52:25: add id call
+- 2023-07-19 15:52:26: add id call
+- 2023-07-21 16:13:19: bug fix in typificatin
