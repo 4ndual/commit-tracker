@@ -377,3 +377,5 @@
 - 2023-07-21 16:13:19: bug fix in typificatin
 - 2023-07-21 16:13:21: bug fix in typificatin
 - 2023-07-23 08:58:37: test
+- 2023-07-23 08:58:38: test
+- 2023-07-23 09:14:13: removing ot of hours
