@@ -393,3 +393,5 @@
 - 2023-07-24 09:47:47: chat positiva
 - 2023-07-24 09:47:48: chat positiva
 - 2023-07-24 09:56:23: removing extra test
+- 2023-07-24 09:56:24: removing extra test
+- 2023-07-24 11:01:04: bug fix should not request wihout document name
