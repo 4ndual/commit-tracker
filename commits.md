@@ -389,3 +389,5 @@
 - 2023-07-23 18:36:32: Merge branch 'main' of https://github.com/Linktic-Marketing/Positiva-Call-Center
 - 2023-07-23 18:36:33: Merge branch 'main' of https://github.com/Linktic-Marketing/Positiva-Call-Center
 - 2023-07-24 09:27:08: fix bug change to others
+- 2023-07-24 09:27:09: fix bug change to others
+- 2023-07-24 09:47:47: chat positiva
