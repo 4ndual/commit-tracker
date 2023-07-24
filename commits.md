@@ -395,3 +395,5 @@
 - 2023-07-24 09:56:23: removing extra test
 - 2023-07-24 09:56:24: removing extra test
 - 2023-07-24 11:01:04: bug fix should not request wihout document name
+- 2023-07-24 11:01:06: bug fix should not request wihout document name
+- 2023-07-24 15:23:58: added canal
