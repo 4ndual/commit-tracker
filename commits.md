@@ -397,3 +397,5 @@
 - 2023-07-24 11:01:04: bug fix should not request wihout document name
 - 2023-07-24 11:01:06: bug fix should not request wihout document name
 - 2023-07-24 15:23:58: added canal
+- 2023-07-24 15:24:01: added canal
+- 2023-07-24 15:44:41: fix edit bug
