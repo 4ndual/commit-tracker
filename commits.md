@@ -405,3 +405,5 @@
 - 2023-07-25 14:15:31: preparing for production
 - 2023-07-25 14:15:33: preparing for production
 - 2023-07-25 15:11:16: capacitor.json
+- 2023-07-25 15:11:17: capacitor.json
+- 2023-07-25 15:12:51: Merge branch 'ui-logic-integration' of https://github.com/Linktic-Marketing/RamaJudicial
