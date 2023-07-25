@@ -409,3 +409,5 @@
 - 2023-07-25 15:12:51: Merge branch 'ui-logic-integration' of https://github.com/Linktic-Marketing/RamaJudicial
 - 2023-07-25 15:12:52: Merge branch 'ui-logic-integration' of https://github.com/Linktic-Marketing/RamaJudicial
 - 2023-07-25 16:49:40: rebuild for ios
+- 2023-07-25 16:49:41: rebuild for ios
+- 2023-07-25 17:41:53: xcode changes
