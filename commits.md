@@ -399,3 +399,5 @@
 - 2023-07-24 15:23:58: added canal
 - 2023-07-24 15:24:01: added canal
 - 2023-07-24 15:44:41: fix edit bug
+- 2023-07-24 15:44:44: fix edit bug
+- 2023-07-24 20:27:10: curated id to avoid undefined error when creating
