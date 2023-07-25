@@ -411,3 +411,5 @@
 - 2023-07-25 16:49:40: rebuild for ios
 - 2023-07-25 16:49:41: rebuild for ios
 - 2023-07-25 17:41:53: xcode changes
+- 2023-07-25 17:41:54: xcode changes
+- 2023-07-25 18:26:06: ripor to favico and title
