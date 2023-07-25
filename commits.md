@@ -403,3 +403,5 @@
 - 2023-07-24 20:27:10: curated id to avoid undefined error when creating
 - 2023-07-24 20:27:12: curated id to avoid undefined error when creating
 - 2023-07-25 14:15:31: preparing for production
+- 2023-07-25 14:15:33: preparing for production
+- 2023-07-25 15:11:16: capacitor.json
