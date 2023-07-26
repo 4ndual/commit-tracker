@@ -413,3 +413,5 @@
 - 2023-07-25 17:41:53: xcode changes
 - 2023-07-25 17:41:54: xcode changes
 - 2023-07-25 18:26:06: ripor to favico and title
+- 2023-07-25 18:26:07: ripor to favico and title
+- 2023-07-25 19:47:56: added splash and icon
