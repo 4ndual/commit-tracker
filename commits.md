@@ -415,3 +415,5 @@
 - 2023-07-25 18:26:06: ripor to favico and title
 - 2023-07-25 18:26:07: ripor to favico and title
 - 2023-07-25 19:47:56: added splash and icon
+- 2023-07-25 19:47:58: added splash and icon
+- 2023-07-26 23:06:47: signup confirm and login with testing
