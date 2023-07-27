@@ -417,3 +417,5 @@
 - 2023-07-25 19:47:56: added splash and icon
 - 2023-07-25 19:47:58: added splash and icon
 - 2023-07-26 23:06:47: signup confirm and login with testing
+- 2023-07-26 23:06:48: signup confirm and login with testing
+- 2023-07-27 08:40:19: added refresh and user function for auth
