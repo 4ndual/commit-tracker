@@ -421,3 +421,5 @@
 - 2023-07-27 08:40:19: added refresh and user function for auth
 - 2023-07-27 08:40:20: added refresh and user function for auth
 - 2023-07-27 11:06:34: api for consume of auth services implemented
+- 2023-07-27 11:06:35: api for consume of auth services implemented
+- 2023-07-27 19:17:38: change auth file for utils in auth folder and removed unneceary api call for functions
