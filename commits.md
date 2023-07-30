@@ -425,3 +425,5 @@
 - 2023-07-27 19:17:38: change auth file for utils in auth folder and removed unneceary api call for functions
 - 2023-07-27 19:17:39: change auth file for utils in auth folder and removed unneceary api call for functions
 - 2023-07-29 18:17:31: added sst
+- 2023-07-29 18:17:32: added sst
+- 2023-07-29 19:01:33: i added the stat but migrating the cognito to sst is going to be a real pain
