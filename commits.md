@@ -427,3 +427,5 @@
 - 2023-07-29 18:17:31: added sst
 - 2023-07-29 18:17:32: added sst
 - 2023-07-29 19:01:33: i added the stat but migrating the cognito to sst is going to be a real pain
+- 2023-07-29 19:01:34: i added the stat but migrating the cognito to sst is going to be a real pain
+- 2023-07-29 19:07:00: i added the sst but migrating the cognito to sst is going to be a real pain
