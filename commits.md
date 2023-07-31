@@ -431,3 +431,5 @@
 - 2023-07-29 19:07:00: i added the sst but migrating the cognito to sst is going to be a real pain
 - 2023-07-29 19:07:01: i added the sst but migrating the cognito to sst is going to be a real pain
 - 2023-07-31 16:27:07: checkpoint
+- 2023-07-31 16:27:08: checkpoint
+- 2023-07-31 17:38:32: added new product tracking for segment in mixpanel.ts
