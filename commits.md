@@ -433,3 +433,5 @@
 - 2023-07-31 16:27:07: checkpoint
 - 2023-07-31 16:27:08: checkpoint
 - 2023-07-31 17:38:32: added new product tracking for segment in mixpanel.ts
+- 2023-07-31 17:38:33: added new product tracking for segment in mixpanel.ts
+- 2023-07-31 17:40:12: minor bug fix
