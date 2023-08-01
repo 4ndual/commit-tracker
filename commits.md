@@ -437,3 +437,5 @@
 - 2023-07-31 17:40:12: minor bug fix
 - 2023-07-31 17:40:13: minor bug fix
 - 2023-08-01 08:37:09: addeed all mixpanel events to  segment
+- 2023-08-01 08:37:10: addeed all mixpanel events to  segment
+- 2023-08-01 08:40:30: minor refactor
