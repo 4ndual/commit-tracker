@@ -439,3 +439,5 @@
 - 2023-08-01 08:37:09: addeed all mixpanel events to  segment
 - 2023-08-01 08:37:10: addeed all mixpanel events to  segment
 - 2023-08-01 08:40:30: minor refactor
+- 2023-08-01 08:40:31: minor refactor
+- 2023-08-01 08:57:35: saving change from release to ios
