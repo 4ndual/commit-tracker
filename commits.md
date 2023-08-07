@@ -443,3 +443,5 @@
 - 2023-08-01 08:57:35: saving change from release to ios
 - 2023-08-01 08:57:36: saving change from release to ios
 - 2023-08-01 08:59:11: Merge branch 'main' of https://github.com/Linktic-Marketing/RamaJudicial
+- 2023-08-01 08:59:12: Merge branch 'main' of https://github.com/Linktic-Marketing/RamaJudicial
+- 2023-08-07 10:20:17: checkpoint
