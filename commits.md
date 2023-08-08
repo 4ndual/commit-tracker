@@ -445,3 +445,5 @@
 - 2023-08-01 08:59:11: Merge branch 'main' of https://github.com/Linktic-Marketing/RamaJudicial
 - 2023-08-01 08:59:12: Merge branch 'main' of https://github.com/Linktic-Marketing/RamaJudicial
 - 2023-08-07 10:20:17: checkpoint
+- 2023-08-07 10:20:18: checkpoint
+- 2023-08-08 11:10:03: changes for iphone
